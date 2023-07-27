@@ -22,7 +22,7 @@ public class PokemonTest {
 		System.out.println(pokedex.pokemonInfo(p3));
 		
 		pokedex.listPokemon();
-
+				
 	}
 
 }

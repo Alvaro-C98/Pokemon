@@ -14,4 +14,5 @@ public class Pokedex extends AbstractPokemon {
 			System.out.println("Nombre: "+pokemon);
 		}
 	}
+		
 }
